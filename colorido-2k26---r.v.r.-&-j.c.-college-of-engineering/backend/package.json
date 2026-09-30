@@ -1,0 +1,16 @@
+{
+  "name": "colorido-2k26-backend",
+  "version": "1.0.0",
+  "description": "Backend API for COLORIDO 2K26 - R.V.R. & J.C. College of Engineering",
+  "type": "module",
+  "main": "src/server.js",
+  "scripts": {
+    "dev": "node src/server.js",
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "sql.js": "^1.12.0"
+  }
+}

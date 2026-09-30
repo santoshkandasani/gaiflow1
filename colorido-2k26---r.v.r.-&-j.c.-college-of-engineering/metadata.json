@@ -1,0 +1,6 @@
+{
+  "name": "COLORIDO 2K26 - R.V.R. & J.C. College of Engineering",
+  "description": "Official portal for COLORIDO 2K26, a national-level cultural and sports fest hosted by R.V.R. & J.C. College of Engineering (Autonomous).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
